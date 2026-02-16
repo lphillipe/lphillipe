@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Olá, eu sou Luis Phillipe
 
-<!--
-**lphillipe/lphillipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedor Backend com foco em Python e construção de APIs REST.
 
-Here are some ideas to get you started:
+Tenho experiência prática desenvolvendo projetos utilizando FastAPI, Docker e bancos relacionais, com foco em organização de código, arquitetura limpa e conteinerização.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Stack Principal
+
+- Python
+- FastAPI
+- SQLite / SQL
+- Docker
+- Shell Script
+- Git
+- Linux
+
+---
+
+## 📚 Atualmente estudando
+
+- Kubernetes
+- CI/CD
+- Terraform
+- Ansible
+- Node.js
+
+---
+
+## 🧠 O que eu construo
+
+- APIs RESTful com FastAPI
+- Sistemas backend organizados em camadas
+- Aplicações conteinerizadas com Docker
+- MVPs acadêmicos e projetos práticos
+
+---
+
+## 📌 Projetos em Destaque
+
+🔹 API REST com autenticação  
+🔹 MVP Backend (Projetos PUC)  
+🔹 Aplicações conteinerizadas com Docker  
+
+---
+
+## 🎯 Objetivo
+
+Atuar como Desenvolvedor Backend Python Júnior ou Estagiário, contribuindo na construção de APIs escaláveis e soluções modernas.
+
+---
+
+## 📫 Contato
+
+LinkedIn: https://linkedin.com/in/luis-phillipe-gomes-b18975106
