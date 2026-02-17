@@ -10,7 +10,7 @@ Tenho experiência prática desenvolvendo projetos utilizando FastAPI, Docker e 
 
 - Python
 - FastAPI
-- SQLite / SQL
+- SQLite / PostgreSQL
 - Docker
 - Shell Script
 - Git
