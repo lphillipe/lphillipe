@@ -20,6 +20,7 @@ Tenho experiência prática desenvolvendo projetos utilizando FastAPI, Docker e 
 
 ## 📚 Atualmente estudando
 
+- Django
 - Kubernetes
 - CI/CD
 - Terraform
