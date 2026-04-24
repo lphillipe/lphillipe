@@ -25,7 +25,7 @@ Tenho experiência prática desenvolvendo projetos utilizando FastAPI, Docker e 
 - CI/CD
 - Terraform
 - Ansible
-- Node.js
+- React
 
 ---
 
