@@ -48,7 +48,7 @@ Tenho experiência prática desenvolvendo projetos utilizando FastAPI, Docker e 
 
 ## 🎯 Objetivo
 
-Atuar como Desenvolvedor Backend Python Júnior ou Estagiário, contribuindo na construção de APIs escaláveis e soluções modernas.
+Atuar como Desenvolvedor Backend Python Júnior, contribuindo na construção de APIs escaláveis e soluções modernas.
 
 ---
 
